@@ -1,0 +1,2 @@
+# BezierEgrisiPython
+Bezier Eğrisi
